@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileCabinetApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ed810ae310dd434eabb9ab15483af529703407")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileCabinetApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileCabinetApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
